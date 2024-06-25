@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\intelitrader\MenorDistanciaArray\MenorDistanciaArray\bin\Debug\MenorDistanciaArray.exe.config
+C:\Users\pc\Desktop\intelitrader\MenorDistanciaArray\MenorDistanciaArray\bin\Debug\MenorDistanciaArray.exe
+C:\Users\pc\Desktop\intelitrader\MenorDistanciaArray\MenorDistanciaArray\bin\Debug\MenorDistanciaArray.pdb
+C:\Users\pc\Desktop\intelitrader\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\MenorDistanciaArray.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\intelitrader\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\MenorDistanciaArray.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\intelitrader\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\MenorDistanciaArray.exe
+C:\Users\pc\Desktop\intelitrader\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\MenorDistanciaArray.pdb
